@@ -7,9 +7,10 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [x] Typescript
 - [x] Mocha & chai
 - [x] DotENV
+- [x] GitHub Workflow
 - [ ] ESLinter & Prettier
 
 ### Version
-v1.1
+v1.2
 
 [GitHub Repo](https://github.com/MateoDi9z/express-template)
