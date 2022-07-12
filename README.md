@@ -13,6 +13,6 @@ Project template with use-full pack of tools and ready-to-use test-driven develo
 - [ ] ESLinter & Prettier
 
 ### Version
-v1.2.1
+v1.2.2
 
 [GitHub Repo](https://github.com/MateoDi9z/express-template)

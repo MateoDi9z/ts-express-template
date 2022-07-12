@@ -1,11 +1,12 @@
 {
   "name": "express-template",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A Express.js App template using Typescript and test-driven development",
   "main": "index.js",
   "scripts": {
     "build": "tsc -p .",
-    "dev": "nodemon",
+    "start:dev": "nodemon",
+    "start:prod": "node ./dist/app.js",
     "test": "mocha --check-leaks"
   },
   "author": "DecentralTube",
